@@ -3,21 +3,24 @@
 
 <!-- Connect with me section -->
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<h4 align="left">
+   <a href="https://mail.google.com/mail/u/?authuser=charleslouis1234@gamil.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
   <a href="https://linkedin.com/in/charleslouis" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://instagram.com/lou_ischarles7" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
   </a>
   <a href="https://www.leetcode.com/charleslouis1234" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+  <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" />
   </a>
-</p>
+</h4>
 
 <!-- Languages and Tools section -->
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<h4 align="left">
   <!-- Languages -->
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -45,7 +48,7 @@
 
 
   <!-- Add more tools icons here -->
-</p>
+</h4>
 
 <!-- Stats section -->
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
