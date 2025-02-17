@@ -54,6 +54,4 @@
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=charleuis&show_icons=true&locale=en&layout=compact" alt="Top Languages" width="47%" />
 
-  <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=charleuis" alt="GitHub Streak" width="47%" />
 </div>
